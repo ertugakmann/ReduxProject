@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   cardItems: [],
-  quantity: 0,
+  quantity: 7,
   total: 0,
 };
 

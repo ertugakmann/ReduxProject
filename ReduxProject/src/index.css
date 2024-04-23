@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  color: white;
+}
+
+.basketIcon {
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+}
+
+.basketCount {
+  background-color: white;
+  border-radius: 30px;
+  color: black;
+  text-align: center;
+}
